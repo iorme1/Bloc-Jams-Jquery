@@ -18,7 +18,7 @@ var nextSong = function() {
         currentSongIndex = 0;
     }
 
-    //replaced undeneath code
+
     var lastSongNumber = currentlyPlayingSongNumber;
 
 
@@ -44,7 +44,7 @@ var previousSong = function() {
         currentSongIndex = currentAlbum.songs.length - 1;
     }
 
-    //replaced underneath code
+    
     var lastSongNumber = currentlyPlayingSongNumber;
 
 
